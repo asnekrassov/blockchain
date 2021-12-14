@@ -1,2 +1,2 @@
 # Blockchain
-Node.js + React
+Node.js
